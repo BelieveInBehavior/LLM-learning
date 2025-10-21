@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "This repository contains learning materials and documentation about Large Language Models (LLMs), focusing on prompt engineering, context engineering ## 📖 Documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BelieveInBehavior/LLM-learning.git"
+  },
+  "keywords": [
+    "leanin1-0=1"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BelieveInBehavior/LLM-learning/issues"
+  },
+  "homepage": "https://github.com/BelieveInBehavior/LLM-learning#readme"
+}
